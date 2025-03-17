@@ -1,0 +1,26 @@
+High level programming language
+class-based
+Object Oriented
+secured
+1.Desktop application/standalone/windows-->Java SE
+2.Web Application-->JEE or J2EE
+3.Mobile Application-->Java ME
+4.JavaFX-->Rich Internet Application
+Instance
+Local
+Static
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
