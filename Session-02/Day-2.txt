@@ -1,0 +1,59 @@
+public static void main(String[] args)
+public static void main(String []args)
+public static void main(String args[])
+public static void main(String... args)
+static public void main(String[] args)
+Unary !operator
+!5 -->Formula -->-(n+1)--->(~a)
+8 4 2 1
+       1
+0 1 0 1--->5
+0 0 0 1--->1
+---------
+0 1 1  0--->-6
+----------
+a = 5 
+c = a++ + --a + ++a
+c = 5(6) + 5 + 6
+c = 5 +5 +6
+
+BODMAS
+()/%*+-
+simple if
+if else
+else ladder
+nested if else
+switch case
+
+for(intialization; condition; Inc/Dec){
+	for(intialization; condition; Inc/Dec){
+	
+	//Statement
+
+	}
+
+}
+for (Datatype variablename : arrayname(object)) {
+	//statement
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
