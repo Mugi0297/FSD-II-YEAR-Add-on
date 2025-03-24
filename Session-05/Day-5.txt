@@ -1,0 +1,69 @@
+Encapsulation
+-->Java Bean
+-->Bean class-->Servlet
+-->Model-->Servlet , Spring and SpringBoot
+-->Entity-->Spring and SpringBoot
+-->POJO class
+POJO-->Plain Old Java Object
+Perform a single action in different ways is called
+Polymorphism
+
+poly-->Many
+morphs-->forms
+
+types
+-->Compile-time (Method Overloading)
+	*By changing number of arguments
+	*By changing datatypes
+
+-->Run-time (Method Overrriding)
+	*Through inheritance
+Abstract classes-->0 to 99%
+Interface-->100%
+parent1-->Interface-->VegItems
+parent2-->Interface-->NonVegItems
+
+Child-->class-->AccessFoodMenu
+byte----->Byte
+short---->Short
+int------->Integer
+long----->Long
+char----->Character
+float----->Float
+double-->Double
+boolean-->Boolean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
